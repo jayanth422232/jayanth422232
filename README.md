@@ -1,48 +1,87 @@
-# Hi there, I'm Pandillapalli Jayanth Vinay 👋
+<h1 align="center">Hi there, I'm Pandillapalli Jayanth Vinay 👋</h1>
+<h3 align="center">Full-Stack Java Developer | AI/ML Enthusiast | Data Analyst</h3>
 
-## 🚀 About Me
-🎓 **B.Tech in Computer Science and Engineering** at *NIT Andhra Pradesh*  
-💻 Passionate about **Full-Stack Development**, **AI/ML**, and **Data Analysis**
-
-
----
-
-## 🛠️ Technical Skills
-
-**Languages:**  
-`Java` | `C` | `Python`
-
-**Web Development (MERN):**  
-`MongoDB` | `Express.js` | `React` | `Node.js`  
-`HTML` | `CSS` | `Tailwind CSS`
-
+<p align="center">
+  🎓 B.Tech in Computer Science Engineering, NIT Andhra Pradesh (2026) &nbsp;|&nbsp;
+  💼 Currently in Training Period at a Product-Based Company
+</p>
 
 ---
 
-## 🌟 Featured Projects
+### 🚀 About Me
 
-### **Disease Prediction System**
-⚡ Developed a React-based disease prediction system and Application using Flutterflow tool that analyzes user-input symptoms and provides real-time
- results.  
--  Integrated Google Gemini (LLM API) to generate accurate disease predictions and natural language explanations.
--  Integrated Firebase for database management and real-time data handling. 
-
-### **Learning Management System**
-🧠 *MERN Stack*  
--  Engineered dynamic features like instructor dashboards, role-based access control, and interactive content modules
- with scalable REST APIs and MongoDB integration.
+- 🧑‍💻 **Full-Stack Java Developer** passionate about building scalable, real-world applications
+- 🎓 Graduated in **April 2026** from NIT Andhra Pradesh with a B.Tech in Computer Science and Engineering
+- 💼 Currently undergoing **professional training** at a company, sharpening enterprise-grade development skills
+- 🧠 Deeply interested in **AI/ML** and **Data Analysis**, and enjoy applying them to practical problems
+- 🌱 Constantly learning and exploring the Java ecosystem (Spring Boot, Microservices, System Design)
+- ⚡ Fun fact: I love turning everyday problems into full-stack applications
 
 ---
 
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/jayanthvinay)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](jayanthvinaypandillapalli@gmail.com)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/jayanth422232/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/jayanthvinaypqqea/)
+### 🛠️ Tech Stack
 
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
+**Backend & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
 
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
 
+**Databases**
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
+**Tools & Platforms**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
+---
 
+### 🌟 Featured Projects
+
+#### 🩺 Disease Prediction System
+A React-based disease prediction system and companion mobile app (built with FlutterFlow) that analyzes user-input symptoms and delivers real-time predictions.
+- Integrated **Google Gemini (LLM API)** to generate accurate disease predictions with natural language explanations
+- Used **Firebase** for database management and real-time data handling
+
+#### 🧠 Learning Management System (MERN Stack)
+A full-featured LMS with dynamic instructor dashboards, role-based access control, and interactive content modules.
+- Engineered scalable **REST APIs** integrated with **MongoDB**
+- Implemented role-based access control for students, instructors, and admins
+
+📂 **Check out all my work in my [repositories](https://github.com/jayanth422232?tab=repositories)** ⬇️
+
+---
+
+### 📫 Let's Connect
+
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+</p>
+
+<p align="center"><i>Always open to collaborating on interesting full-stack and AI-driven projects 🚀</i></p>
