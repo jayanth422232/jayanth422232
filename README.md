@@ -3,7 +3,7 @@
 
 <p align="center">
   🎓 B.Tech in Computer Science Engineering, NIT Andhra Pradesh (2026) &nbsp;|&nbsp;
-  💼 Currently in Training Period at a Product-Based Company
+  💼 Currently in Training Period at a Company
 </p>
 
 ---
@@ -11,12 +11,10 @@
 ### 🚀 About Me
 
 - 🧑‍💻 **Full-Stack Java Developer** passionate about building scalable, real-world applications
-- 🎓 Graduated in **April 2026** from NIT Andhra Pradesh with a B.Tech in Computer Science and Engineering
 - 💼 Currently undergoing **professional training** at a company, sharpening enterprise-grade development skills
 - 🧠 Deeply interested in **AI/ML** and **Data Analysis**, and enjoy applying them to practical problems
 - 🌱 Constantly learning and exploring the Java ecosystem (Spring Boot, Microservices, System Design)
-- ⚡ Fun fact: I love turning everyday problems into full-stack applications
-
+  
 ---
 
 ### 🛠️ Tech Stack
@@ -49,13 +47,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-**Tools & Platforms**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
 
 ---
 
